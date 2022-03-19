@@ -179,3 +179,4 @@ teste=base_teste[[ 'score','chance_de_pagamento',
 
 modelo.predict(teste)
 
+# teste git
