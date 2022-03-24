@@ -167,7 +167,7 @@ plt.plot([0, 0], [1, 0], ls="--", c='green'), plt.plot(
 plt.show()
 
 
-
+andre=27081984
 base_teste = pd.read_excel('/home/andre/gdrive/DataScience/documents/desenvolvimento/fenix/base_teste/base_test.xlsx')
 base_teste = pd.DataFrame(base_teste)
 teste=base_teste[[ 'score','chance_de_pagamento', 
